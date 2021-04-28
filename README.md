@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Xun-i
-- 👀 I’m interested in python and C++.
-- 🌱 I’m currently learning python's selenium with peewee and so all.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .qq486394777 or tel18960733606
+###关于
 
-<!---
-Xun-i/Xun-i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+####问题反馈
+在使用中由任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
+
+*邮件（kema78093@gmail.com)
+
+*微信：Sensibilites
+
+####关于作者
+
+一个刚入职场小新人，在兴趣的驱动下，写一些`简单`的东西，有欣喜，也还有汗水，希望你喜欢我的同时也支持一下。
+
+
