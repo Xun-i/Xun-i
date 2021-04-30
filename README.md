@@ -4,7 +4,7 @@
 
 `在使用中由任何问题，欢迎反馈给我，可以用以下联系方式跟我交流`
 
-*`邮件（kema78093@gmail.com)`
+*`邮件（dev.zackz@gmail.com)`
 
 *`微信：Sensibilites`
 
